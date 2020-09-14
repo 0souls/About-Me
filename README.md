@@ -5,7 +5,7 @@
 
 </p>
 <div class="display">
-<h1 style="text-align: center;" align="center"> Dumb shit </h1>
+<h1 style="text-align: center;" align="center"> About Me </h1>
 <p style="text-align: center;"align="center">Name - Jay<br></p>
 <p style="text-align: center;"align="center">Age - 14<br></p>
 <p style="text-align: center;"align="center">Interest - Coding mainly<br></p>
